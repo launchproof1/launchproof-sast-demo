@@ -1,0 +1,14 @@
+{
+  "name": "vuln-fixture",
+  "version": "1.0.0",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "lodash": "4.17.11"
+  },
+  "devDependencies": {
+    "vite": "^5.2.0",
+    "lovable-tagger": "^1.0.0"
+  }
+}
